@@ -1,5 +1,5 @@
 # L101AdverAttack
-This GitHub contains 
+This GitHub is for L101 project
 
 adversarial_scripts folder contains the script to generate adversarial examples.
 
